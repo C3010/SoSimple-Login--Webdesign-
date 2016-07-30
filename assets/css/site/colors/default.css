@@ -1,0 +1,47 @@
+:root {
+	--primary-color: #d63647;
+	--background-color: #1b222f;
+	--color: #5b5f67;
+	--link-color: #9499a1;
+	--link-hover-color: #5bd3b4;
+	--login-box-background: #ffffff;
+	--login-box-shadow: 0 0 7px rgba(0, 0, 0, .10);
+	--border-radius: 2px;
+	--form-group-label-color: #302b2c;
+	--form-control-border-color: #eaeaea;
+	--form-control-border-radius: 30px;
+	--form-control-color: #959595;
+	--form-control-background: #ffffff;
+	--checkbox-checked-color: #5bd3b4;
+	--logo-color: #ffffff;
+	--title-color: #302b2c;
+	--register-link-color: #cdd3de;
+	--register-link-hover-color: #5bd3b4;
+
+	--button-color: #222222;
+	--button-background: #f0f0f0;
+	--button-hover-color: #222222;
+	--button-hover-background: #eaeaea;
+
+	--button-primary-color: #ffffff;
+	--button-primary-background: #d63647;
+	--button-primary-hover-color: #ffffff;
+	--button-primary-hover-background: #f14e5f;
+
+	--forgot-password-link-color: #909090;
+	--forgot-password-link-hover-color: #b5b5b5;
+
+	--btn-sn-icon-background: rgba(0, 0, 0, .3);
+	--btn-sn-facebook-background: #3b5998;
+	--btn-sn-facebook-hover-background: #4d6bab;
+	--btn-sn-twitter-background: #55acee;
+	--btn-sn-twitter-hover-background: #67b8f6;
+	--btn-sn-googleplus-background: #dd4b39;
+	--btn-sn-googleplus-hover-background: #ee604e;
+
+	--alert-background: #3747a4;
+	--alert-danger-background: #ff4a4a;
+	--alert-info-background: #3d92d3;
+	--alert-warning-background: #ff831a;
+	--alert-success-background: #47d752;
+}
