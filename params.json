@@ -1,0 +1,6 @@
+{
+  "name": "Sosimple-login--webdesign-",
+  "tagline": "A simple but beautiful login page!",
+  "body": "# SoSimple Login (Webdesign)\r\n----\r\n\r\nA simple but beautiful login page that's created with much love!\r\n\r\n### Version\r\n----\r\n1.0\r\n\r\n### Installation\r\n----\r\n\r\n```sh\r\n$ git clone [https://github.com/C3010/SoSimple-Login--Webdesign-] sosimple\r\n```\r\n\r\n### Screenshot\r\n---\r\n\r\n![Screen](http://image.prntscr.com/image/26fae3aed71a4da3a802d1fc7c132949.png)\r\n\r\n### Used\r\n----\r\n\r\n* Bootstrap\r\n* jQuery\r\n\r\n### Credits\r\n----\r\n\r\nCandan T. (C3O / Can)\r\n\r\n### License\r\n----\r\n\r\nMIT\r\n\r\n\r\n**Free Software, yeah!**\r\n\r\n   [dill]: <https://github.com/C3010/SoSimple-Login--Webdesign->\r\n   [git-repo-url]: <https://github.com/C3010/SoSimple-Login--Webdesign-.git>\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
